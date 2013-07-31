@@ -1,0 +1,7 @@
+.chart rect.bar {
+    fill: steelblue;
+}
+.chart text.chart-label {
+  fill: steelblue;
+  stroke: white;
+}
